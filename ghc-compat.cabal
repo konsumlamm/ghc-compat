@@ -45,7 +45,9 @@ library
         GHC.IO.Encoding.UTF8
         GHC.IO.Exception
         GHC.IO.String
+        GHC.Read
         GHC.ResponseFile
+        GHC.Show
         GHC.Stack
         GHC.ST
         GHC.TopHandler
